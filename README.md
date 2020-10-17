@@ -1,7 +1,7 @@
 ### Hi there I'm Supun.👋
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...android studio
 - 🌱 I’m currently learning ...computer science
