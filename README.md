@@ -1,8 +1,6 @@
 ### Hi there I'm Supun.👋
 
 
-
-
 - 🔭 I’m currently working on ...android studio
 - 🌱 I’m currently learning ...computer science
 - 👯 I’m looking to collaborate on ...anyone
