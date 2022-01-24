@@ -38,6 +38,8 @@
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=smartsupun&&show_icons=true&title_color=000&text_color=6f6f6fbg_color=fff">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartsupun
+)](https://github.com/smartsupun/github-readme-stats)
 
 [twitter]:https://twitter.com/smartsupun
 [linkedin]: https://www.linkedin.com/in/supun-lakshan-0574261a9/
